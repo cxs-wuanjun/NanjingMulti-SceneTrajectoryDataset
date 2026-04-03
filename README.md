@@ -1,0 +1,2 @@
+# NanjingMulti-SceneTrajectoryDataset
+本仓库是一个针对无信号控制路段（Unsignalized Roads）的行人过街轨迹预测构建的真实世界数据集。
