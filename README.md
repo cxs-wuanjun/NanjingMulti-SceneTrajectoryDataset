@@ -1,4 +1,4 @@
-#南京多场景轨迹数据集 (Nanjing Multi-Scene Trajectory Dataset)  
+南京多场景轨迹数据集 (Nanjing Multi-Scene Trajectory Dataset)  
 
 1. 数据集简介 (Introduction)
 
